@@ -30,8 +30,6 @@ You are now ready to use Python and SQLAlchemy to do basic climate analysis and 
 
 * Plot the results using the DataFrame `plot` method.
 
-<center><img src='images/precip.png' /></center>
-
 * Use Pandas to print the summary statistics for the precipitation data.
 
 ### Station Analysis
@@ -65,8 +63,6 @@ You are now ready to use Python and SQLAlchemy to do basic climate analysis and 
   * Load the list of daily normals into a Pandas DataFrame and set the index equal to the date.
 
   * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
-
-  <center><img src="images/daily_normals.png" /></center>
 
 ---
 
